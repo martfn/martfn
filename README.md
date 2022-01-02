@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nogumart
-- 👀 I’m interested in Graphic Design and Programming, mainly Web Development languages, like HTML, CSS, Python, and C#.
-- 🌱 I’m currently learning HTML, CSS, Python, and C# (Will learn JS in school in a year or two)
+- 👀 I’m interested in Graphic Design and Programming, mainly Web Development languages, but I'm planning on learning and working with more serious languages, maybe even make a game.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript, I'm probably gonna learn a few more languages in the future.
 - 📫 You can reach me through email - nogumartt@gmail.com
 
 <!---
