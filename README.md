@@ -4,6 +4,6 @@
 - 📫 You can reach me through email - contact.martfn@gmail.com - and donate to me at https://ko-fi.com/pektl
 
 <!---
-nogumart/nogumart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+martfn/martfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
