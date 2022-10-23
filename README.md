@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @martfn, also known as mart, martFN, neoislander, and PektL. I'm 16 years old.
+- 👋 Hi, I’m @martfn. I'm a 16 year old from Portugal.
 - 👀 I’m interested in Programming, YouTube Content Creation and Graphic Design, with one of my main goals being to make a game in the future.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, I know the basics of Python, and I'm learning a C++. I'm probably gonna learn a few more languages in the future.
-- 📫 You can reach me through email - contact.martfn@gmail.com - and donate to me at https://ko-fi.com/pektl
+- 🌱 I’m currently learning C, I know the basics of Python and JS, as well as a lot of HTML/CSS and I'm learning C. 
+- 📫 You can reach me through email - contact.martfn@gmail.com - and donate to me at https://ko-fi.com/pektl.
 
 <!---
 martfn/martfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
