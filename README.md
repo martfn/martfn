@@ -1,5 +1,4 @@
-realized I don't wanna type funny words into a black screen for the rest of my life so I do multimedia work now
-
+blender is way more fun than javascript so im not active on this smelly website
 <!---
 martfn/martfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
